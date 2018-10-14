@@ -14,4 +14,4 @@
 
 ###### Step6. 右脚同理（直接 SHIFT+D 复制）
 
-###### Step7. 快速重命名：【Armature】->【FlipNames】
+###### Step7. 翻转命名：【Armature】->【FlipNames】
