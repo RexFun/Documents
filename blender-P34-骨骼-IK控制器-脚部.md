@@ -8,4 +8,8 @@
 
 ###### Step3. 让关节 *Control_L 控制关节 （后脚掌）*_L：选中 *Control_L 再选中 *_L (即：先选控制者再选被控制者)，点击【Pose】->【Contraints】->【Add(With Targets)】->【Track To】，此时被控制者会变成绿色
 
-###### Step4. 后脚掌同上
+###### Step4. 前脚掌同上
+
+###### Step5. 调整位置与原脚掌重合
+
+###### Step6. 右脚同理
