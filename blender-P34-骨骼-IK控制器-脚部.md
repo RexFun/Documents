@@ -13,3 +13,5 @@
 ###### Step5. 调整位置与原脚掌重合
 
 ###### Step6. 右脚同理（直接 SHIFT+D 复制）
+
+###### Step7. 快速重命名：【Armature】->【FlipNames】
