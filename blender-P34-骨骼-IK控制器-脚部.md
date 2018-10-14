@@ -6,4 +6,4 @@
 
 ###### Step2. 转移IK控制：选中lowerLegIK_L + footControl_L关节，按 CTRL+P 选 【Keep Offset】，记得取消lowerLeg_R亲属关系，选中footMaster_L测试
 
-###### Step3. 让 关节*Control_L 控制 关节*_L：选中 *Control_L 再选中 *_L (即：先选控制者再选被控制者)，点击【Pose】->【Contraints】->【Add(With Targets)】->【Track To】，此时被控制者会变成绿色
+###### Step3. 让关节 *Control_L 控制关节 *_L：选中 *Control_L 再选中 *_L (即：先选控制者再选被控制者)，点击【Pose】->【Contraints】->【Add(With Targets)】->【Track To】，此时被控制者会变成绿色
