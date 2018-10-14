@@ -6,4 +6,4 @@
 
 ###### Step2. 选中相邻三根骨头，最后选中骨骼Root，按 CTRL+P 弹出【Make Parent】，点击【Keep Offset】
 
-###### Step3. PostMode下测试
+###### Step3. PoseMode下测试
