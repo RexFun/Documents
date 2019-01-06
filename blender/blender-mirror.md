@@ -6,3 +6,4 @@
 ## 骨骼
 ##### Step1. 按【T】->【options】->【Armature Options】->【X-Axis Mirror】
 ##### Step2. 选中关节按 [Shift+E] 拖动
+##### 特别提醒：第一个关节必须在[Front]视图下创建，否则影响镜像方向
