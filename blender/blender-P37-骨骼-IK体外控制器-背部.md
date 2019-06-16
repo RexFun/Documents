@@ -4,6 +4,6 @@
 
 ###### Step2. 【backControl】+【Root】-> CTRL+P -> 【Keep OffSet】
 
-###### Step3. 【backControl】+【backBone1】-> CTRL+SHIFT+C -> 【Copy Rotation】
+###### Step3. 切换至【PoseMode】,【backControl】+【backBone1】-> CTRL+SHIFT+C -> 【Copy Rotation】
 
 ###### Step4. 【BoneConstraints】->【Space】-> 将左右两个【World Space】改成【Local Space】
