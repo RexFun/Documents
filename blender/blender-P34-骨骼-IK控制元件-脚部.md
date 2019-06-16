@@ -12,6 +12,6 @@
 
 ###### Step5. 切换【Edit Mode】，全选整个元件，调整位置与原脚掌重合
 
-###### Step6. 右脚同理（直接 SHIFT+D 复制）
+###### Step6. 切换【Edit Mode】，右脚同理（直接 SHIFT+D 复制）
 
-###### Step7. 翻转命名：选中骨骼，【Armature】->【FlipNames】
+###### Step7. 翻转命名：切换【Edit Mode】，选中骨骼，【Armature】->【FlipNames】
