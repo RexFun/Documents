@@ -6,4 +6,4 @@
 
 
 ### v2.8
-###### step1 【Edit Mode】->【全选模型】->【Mesh】->【Clean Up】-> 【Merge By Distance】-> 调整至1m
+###### step1 【Edit Mode】->【全选模型】->【Mesh】->【Clean Up】-> 【Merge By Distance】-> 调整至 0.9 m
