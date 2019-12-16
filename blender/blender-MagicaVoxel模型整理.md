@@ -7,3 +7,5 @@
 
 ### v2.8
 ###### step1 【Edit Mode】->【全选模型】->【Mesh】->【Clean Up】-> 【Merge By Distance】-> 调整至 0.9 m
+###### step2
+###### step3 【Edit Mode】->【全选模型】->【Mesh】->【Shading】-> 【Flat Faces】
