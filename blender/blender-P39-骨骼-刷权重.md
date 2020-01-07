@@ -1,4 +1,4 @@
-# 2.8
+# v2.8
 ###### Step0. 【Object Mode】，选中模型，按住【shift】并选中骨骼，在【Object Mode】同列表选项中选择【Weight Paint】
 ###### Step1.  右边选择【顶点组】后，刷权重
 
